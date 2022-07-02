@@ -1,0 +1,27 @@
+
+.Btn-Play button {
+  background-color: rgb(230, 121, 26);
+  padding: 8px;
+  border-radius: 50%;
+  border: none;
+  margin: 5px;
+}
+
+
+.Btn-Play button:hover {
+  border: 1px solid black;
+}
+
+.Btn-Play button:focus {
+  background-color: greenyellow;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+.Main {
+  display: flex;
+  justify-content: center;
+}
